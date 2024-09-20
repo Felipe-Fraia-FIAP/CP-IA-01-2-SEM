@@ -1,0 +1,14 @@
+como a combinação de 2 LLMs 
+pode ser feita para melhorar a segurança de uso?
+
+Filtragem : Um modelo gera respostas e o outro checa se está ok, evitando coisas impróprias ou sensíveis.
+
+Detecção de Erros : Um modelo criado como respostas e o outro procura por erros ou incoerências.
+
+Controle de Viés : Modelos diferentes podem trabalhar para minimizar preconceitos, com um foco em evitar viés e o outro na fluidez.
+
+Tarefas Específicas : Cada modelo pode ser especializado em áreas diferentes, como segurança ou conteúdo geral.
+
+Diversidade de Respostas : Usar modelos diferentes ajuda a gerar respostas variadas, variando a chance de repetição de informações problemáticas.
+
+Aprendizado Contínuo : Os modelos podem aprender um com o outro, melhorando sua segurança com o tempo.
