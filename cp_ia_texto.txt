@@ -1,0 +1,4 @@
+Fine-tuning é quando você pega um modelo de IA que já sabe fazer várias coisas e dá a ele um "treinamento extra" para que ele fique ainda melhor em uma tarefa específica. Em vez de começar do zero, você ajusta o que ele já aprendeu com novos dados mais focados, como ensinar a responder perguntas sobre saúde ou a atender clientes de forma mais eficaz.
+
+
+Jailbreak é quando alguém tenta driblar as regras de segurança de um modelo de IA. O objetivo é fazer com que o sistema responda ou aja de maneiras que ele normalmente não deveria, como gerar conteúdo inadequado ou responder a perguntas que estão bloqueadas por motivos éticos ou de segurança.
